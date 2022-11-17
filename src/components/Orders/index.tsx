@@ -6,27 +6,27 @@ import { Container } from './styles';
 
 const orders: Order[] = [
   {
-    '_id': '6372e48cbcd195b0d3d0f7f3',
+    '_id': '63760f90876b61c9888f2cd5',
     'table': '1',
     'status': 'IN_PRODUCTION',
     'products': [
       {
         'product': {
-          'name': 'Pizza quatro queijos',
-          'imagePath': '1668472896991-quatro-queijos.png',
-          'price': 80,
+          'name': 'Burguer Mega Chicken',
+          'imagePath': '1668681518276-chicken.png',
+          'price': 32,
         },
         'quantity': 1,
-        '_id': '6372e48cbcd195b0d3d0f7f4'
+        '_id': '63760f90876b61c9888f2cd6'
       },
       {
         'product': {
           'name': 'Coca cola',
-          'imagePath': '1668473462705-coca-cola.png',
+          'imagePath': '1668681590527-coca-cola.png',
           'price': 7,
         },
-        'quantity': 2,
-        '_id': '6372e48cbcd195b0d3d0f7f5'
+        'quantity': 1,
+        '_id': '63760f90876b61c9888f2cd7'
       }
     ],
   }
